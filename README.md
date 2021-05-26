@@ -1,2 +1,5 @@
 # Cracking-Tips-&-Tricks-Python-with-Khom
 This is what I want to learn some tips and tricks of Python.
+
+
+for clean and effective python programmming
