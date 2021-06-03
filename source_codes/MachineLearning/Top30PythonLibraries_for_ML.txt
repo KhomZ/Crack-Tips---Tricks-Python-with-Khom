@@ -1,0 +1,147 @@
+# @ikhomkodes
+# @author: KhomZ 
+
+Top 30 Python Libraries for Machine Learning
+
+Today, Python is one of the most popular programming languages and it has replaced many languages in the industry.
+There are various reasons for its popularity and one of them is that python has a large collection of libraries.
+
+
+
+Python and Its Ecosystem
+
+Python is one of the most widely used languages by Data Scientists and Machine Learning experts across the world.
+Though there is no shortage of alternatives in the form of languages like R, Julia and others, python has steadily 
+and rightfully gained popularity.
+
+Python has more interset over R and Julia consistently over the last 5 years
+
+Similar to the Google Trends shown above(the plot is prepared using matplotlib and pytrends), confidence is 
+visible year over year with python featuring way above its peers in the StackOverflow surveys for 2017 and 2018.
+These trends/surveys are the consequences of ease of use, shorter learning curve, widespread usage, strong 
+community, large number of libraries covering depth and breadth of a number of research and application areas.
+
+The amazing popularity might make one think that python is the gold standard for Machine Learning. 
+This might be true to a certain degree yet, python isn't free from criticism of being slow, issues with multi-threading, etc.
+It would be wrong to overlook its pitfalls and limitations.
+
+
+Batteries Included
+In this article, we will take you through an amazing ecosystem of libraries and projects which make python the 
+go-to-choice for Machine Learning. But before we start with the libraries, a small note about its "batteries included"
+philosophy. The batteries included philosophy refers to the all-powerful standard library which makes your life
+easier as a programmer.
+
+
+Source 
+The standard library (or if we take the liberty to say vanilla python installation), contains a set of easy 
+to use modules for tasks ranging from handling JSONs, making RPC calls, emails, mathematical and statistical 
+operations, regex, OS related operations and so on.
+All these and many more along with a powerful set of data structures like lists and dictionaries enable us to 
+perform tasks with much more ease as compared to other languages. 
+Checkout the page for standard library for more details: along with a good explanation :: https://protocostomy.com 
+
+
+__________________________________________________________________________________________________________
+                        <<<Core Data Handling Libraries:>>>
+__________________________________________________________________________________________________________
+1. Numpy
+    Python has a strong set of data types and data structures. Yet it wasn't designed for Machine Learning per say.
+Enter numpy (pronounced as num-pee). Nuumpy is a data handling library, particularly one which allows us to handle
+large multi-dimensional arrays along with a huge collection of mathematical operations. 
+The following is a quick snippet of numpy in action.
+
+Numpy isn't just a data handling library known for its capability to handle multidimensional data. 
+It is also known for its speed of execution and vectorization capabilities.
+It provides MATLAB style functionality and hence requires some learning before you can get comfortable.
+It is also a core dependency for other majorly used libraries like pandas, matplotlib and so on.
+It's documentation itself is a good starting point. Official link::: https://numpy.org
+
+Advantages:
+
+Downsides:
+
+
+2. Pandas
+
+3. Scipy
+
+4. Matplotlib 
+
+
+
+__________________________________________________________________________________________________________
+                            <<<Machine Learning Stars:>>>
+__________________________________________________________________________________________________________
+5.Scikit-Learn 
+
+6. Statsmodels 
+
+7. Boosting
+
+8. Bagging Vs Boosting
+
+9. XGBoost
+
+10. LightGBM
+
+11. CatBoost
+
+12. ELI5
+
+
+__________________________________________________________________________________________________________
+                            <<<Deep Learning Frameworks :>>>
+__________________________________________________________________________________________________________
+13. Tensorflow
+
+14. Theano
+
+15. Pytourch
+
+16. Keras
+
+Others DL Frameworks/Libraries
+17. FastAi
+
+18. Caffe
+
+**19. Apache MXNet **
+
+20. Gluon
+
+__________________________________________________________________________________________________________
+                            <<<NLP Libraries>>>
+__________________________________________________________________________________________________________
+21. NLTK
+
+22. Gensim
+
+23. Spacy
+
+
+__________________________________________________________________________________________________________
+                            <<<Visualization >>>
+__________________________________________________________________________________________________________
+24. Seaborn
+
+25. Bokeh
+
+26. Plotly
+
+27. Scrapy
+
+28. Flask
+
+29. OpenCV
+
+30. 
+
+__________________________________________________________________________________________________________
+                            <<<Bonus: Few libraries/repositories which are quite widely used.>>>
+__________________________________________________________________________________________________________
+
+
+
+CONCLUSION
+
