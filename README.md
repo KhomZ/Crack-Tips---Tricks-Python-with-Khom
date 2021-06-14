@@ -3,3 +3,7 @@ This is what I want to learn some tips and tricks of Python.
 
 
 for clean and effective python programmming
+
+
+Kernel shots:
+![alt text](https://github.com/KhomZ/Crack-Tips---Tricks-Python-with-Khom/blob/main/screenshots/kernel-Screenfetch.png?raw=true)
