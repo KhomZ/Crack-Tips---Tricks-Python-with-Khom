@@ -7,3 +7,6 @@ for clean and effective python programmming
 
 Kernel shots:
 ![alt text](https://github.com/KhomZ/Crack-Tips---Tricks-Python-with-Khom/blob/main/screenshots/kernel-Screenfetch.png?raw=true)
+
+git-pull error, rebased shots:
+![alt text](https://github.com/KhomZ/Crack-Tips---Tricks-Python-with-Khom/blob/main/screenshots/gitPull-rebased.png?raw=true)
