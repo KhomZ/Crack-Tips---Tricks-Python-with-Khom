@@ -10,3 +10,8 @@ Kernel shots:
 
 git-pull error, rebased shots:
 ![alt text](https://github.com/KhomZ/Crack-Tips---Tricks-Python-with-Khom/blob/main/screenshots/gitPull-rebased.png?raw=true)
+
+
+Infinite Loop
+![alt text](https://github.com/KhomZ/Crack-Tips---Tricks-Python-with-Khom/blob/main/screenshots/infinite-loop.JPG?raw=true)
+(
