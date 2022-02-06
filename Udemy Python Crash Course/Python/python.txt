@@ -1,0 +1,23 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Feb  6 21:37:58 2022
+
+@author: KhomZ
+"""
+
+Variables
+
+1. Reserved memory location to store values.
+2. You can think variable as labels with name on it attached to values.
+3. In python variables do not need explicit declaration.
+4. Assigning variables makes coding easy.
+5. In python we can do multiple assignments simultaneously.
+
+
+Rules for Assigning a Variable
+1. Variable names can not start with numbers.
+2. There are no spaces in variable names, we use _instead.
+3. Variable name only consists of alpha-numeric characters(A-Z, 0-9)
+or underscore(_)
+4. Variable names are case sensitive. Eg- Name, name, NaMe, NAME these are three different variables.
+
